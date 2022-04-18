@@ -1,18 +1,12 @@
-<!--
-**hrithik0073/hrithik0073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi 👋 My name is Rutvik Vachhani ================================  Web developer -------------  Passionate and Solution-oriented Computer Scientist. Studying B.S in Computer Science at California State University, Northridge. 5 Months Intern as Database Developer at 1Rivet.  * 🌍  I'm based in Los Angeles * ✉️  You can contact me at [rutvik.vachhani@yahoo.com](mailto:rutvik.vachhani@yahoo.com) * 🧠  I'm learning Laravel an React
+<h1>Hi 👋 My name is Rutvik Vachhani</h1>
+<h2>Web developer</h2> 
+<p>Passionate and Solution-oriented Computer Scientist. 
+ Studying B.S in Computer Science at California State University, Northridge. 
+ 5 Months Intern as Database Developer at 1Rivet.</p>
+ 
+ * 🌍  I'm based in Los Angeles 
+ * * ✉️  You can contact me at [rutvik.vachhani@yahoo.com](mailto:rutvik.vachhani@yahoo.com)
+ * * 🧠  I'm learning Laravel an React
 
 ### Skills
 
