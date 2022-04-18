@@ -5,8 +5,8 @@
  5 Months Intern as Database Developer at 1Rivet.</p>
  
  * 🌍  I'm based in Los Angeles 
- * * ✉️  You can contact me at [rutvik.vachhani@yahoo.com](mailto:rutvik.vachhani@yahoo.com)
- * * 🧠  I'm learning Laravel an React
+ * ✉️  You can contact me at [rutvik.vachhani@yahoo.com](mailto:rutvik.vachhani@yahoo.com)
+ * 🧠  I'm learning Laravel an React
 
 ### Skills
 
