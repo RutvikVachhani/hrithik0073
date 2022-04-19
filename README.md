@@ -6,7 +6,7 @@
  
  * 🌍  I'm based in Los Angeles 
  * ✉️  You can contact me at [rutvik.vachhani@yahoo.com](mailto:rutvik.vachhani@yahoo.com)
- * 🧠  I'm learning Laravel an React
+ * 🧠  I'm learning Laravel and React
 
 <b>Skills</b>
 
